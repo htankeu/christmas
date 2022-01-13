@@ -1,0 +1,20 @@
+*{
+    box-sizing: border-box;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    list-style: none;
+}
+body{
+    text-align: center;
+    margin: 0;
+    color: white;
+    min-height:200vh;
+    overflow-x: hidden;
+    background-image:url("2022.webp");
+    background-size: 100%;
+}
+.box{
+    border: 6px solid white;
+    transition:0.25s ease;
+    background: black;
+    padding: 10px;
+}
